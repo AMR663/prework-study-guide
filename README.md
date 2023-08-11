@@ -7,7 +7,10 @@ A webpage that will help me to study throughout the duration of the coding bootc
 N/A
 
 ## Usage
-This webpage will be used to help me study the programing langueges we have gone over in class. by being formated to have a section for each of the languages I will be able to navigate and study more efficiently over the course of the bootcamp.
+This webpage will be used to help me study the programing langueges we have gone over so far in class. By being formated to have a section for each of the languages I will be able to navigate and study more efficiently over the course of the bootcamp.
+
+## credits
+N/A
 
 ## License
 Please refer to the LICENSE file in the reposotory
